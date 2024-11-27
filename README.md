@@ -12,4 +12,7 @@
 
 ## Windows
 
+Aplicación de Power Shell para instalar aplicaciones
+``` cmd
 irm https://github.com/ChrisTitusTech/winutil/releases/latest/download/winutil.ps1 | iex
+```
