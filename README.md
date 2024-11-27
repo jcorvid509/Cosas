@@ -8,7 +8,7 @@
 
 [Carpeta compartida VB Ubuntu](https://geekland.eu/compartir-carpetas-y-archivos-en-virtualbox/)
 
-[Instalar Guest Aditions Ubuntu](https://cambiatealinux.com/instalar-virtualbox-guest-additions-en-ubuntu)
+[Instalar Guest Aditions Ubuntu]([https://cambiatealinux.com/instalar-virtualbox-guest-additions-en-ubuntu](https://tecnosender.com/instalar-guest-additions-en-ubuntu-24-04-virtualbox/))
 
 ## Windows
 
