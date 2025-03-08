@@ -6,7 +6,22 @@
 
 # Markdown
 
-- ### Crear diagramas en Markdown<a href="https://mermaid.js.org/intro/"><img src="https://github.com/jcorvid509/.resGen/blob/main/_arrow.svg" width="30" align="right"></a> 
+- ### Crear diagramas en Markdown<a href="https://mermaid.js.org/intro/"><img src="https://github.com/jcorvid509/.resGen/blob/main/_arrow.svg" width="30" align="right"></a>
+
+> [!NOTE]  
+> Highlights information that users should take into account, even when skimming.
+
+> [!TIP]
+> Optional information to help a user be more successful.
+
+> [!IMPORTANT]  
+> Crucial information necessary for users to succeed.
+
+> [!WARNING]  
+> Critical content demanding immediate user attention due to potential risks.
+
+> [!CAUTION]
+> Negative potential consequences of an action.
 
 ## Virtualbox
 
