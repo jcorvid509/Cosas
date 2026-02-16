@@ -54,3 +54,4 @@ irm https://github.com/ChrisTitusTech/winutil/releases/latest/download/winutil.p
 - ### Git [Oh my Git](https://ohmygit.org/)
 - ### CSS: [CSS Dinner](https://flukeout.github.io/)
 - ### Regex: [Regex CrossWord](https://regexcrossword.com/)
+- ### Ensamblador: [Learn6502](https://github.com/JumpLink/Learn6502)
